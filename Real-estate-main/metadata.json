@@ -1,0 +1,6 @@
+{
+  "name": "Bhatti Real Estate - Luxury Properties & Modern Residences Pakistan",
+  "description": "Discover Pakistan's finest luxury villas, modern residences, and high-value investment properties across Lahore, Islamabad, and Karachi with Bhatti Real Estate.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
